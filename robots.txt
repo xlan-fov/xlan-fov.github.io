@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xlan-fov.github.io/sitemap.xml
